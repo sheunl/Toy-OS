@@ -11,12 +11,13 @@
 4. Nasm Assembler
 5. ghex (optional)
 
-A script **req.sh** for installing requirements is provide for Ubuntu/Debian users. Note: "chmod +x" before excuting. 
+A script **req.sh** for installing requirements is provide for Ubuntu/Debian users. 
+Note: "chmod +x" before executing. 
 Makefile is available just "make" to build and "make run" to run on QEMU.
 
 ### Hopefully this can be helpful to any one reading the text, that wants something to run
 
-###Note:
+### Note:
 - No Comments in the code, may add them later.
 - Systems requirements may differ and affect building/running of bootloader+kernel.
 - Would love your feedback and questions as I am learning also.
